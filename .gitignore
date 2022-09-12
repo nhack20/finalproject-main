@@ -1,0 +1,4 @@
+# Project exclude paths
+/FinalEzLearingWithBussness/.gradle/
+/FinalEzLearingWithBussness/build/
+/FinalEzLearingWithBussness/build/classes/java/main/
